@@ -1,0 +1,16 @@
+{
+  "name": "day_3_homework_string_operation",
+  "version": "1.0.0",
+  "description": "This package simply help to perform string operations easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "String",
+    "String",
+    "Manipulation"
+  ],
+  "author": "Aniket jauhri",
+  "license": "ISC"
+}
